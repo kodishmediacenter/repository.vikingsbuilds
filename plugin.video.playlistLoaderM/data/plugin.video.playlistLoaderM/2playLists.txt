@@ -1,0 +1,122 @@
+[
+    {
+        "url": "http://google.com", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR yellow]===Lista IPTV ===[/COLOR]"
+    }, 
+    {
+        "url": "http://bit.ly/FormigaTVOficial", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista IPTV Formiga"
+    }, 
+    {
+        "url": "https://pastebin.com/raw/EhvRqk6Q", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista Iptv Cotia"
+    }, 
+    {
+        "url": "https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista Fluxus Gringa"
+    }, 
+    {
+        "url": "https://pastebin.com/raw/XMF4T7x4", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista Iptv Adustina"
+    }, 
+    {
+        "url": "https://dantas-lista-free.000webhostapp.com/LISTA%20ALYSON%20DANTAS.txt", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista IPTV Dantas"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/vHHVYRwF", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista Renato Borches"
+    }, 
+    {
+        "url": "http://foo.ba", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR green]=== Lista de Filmes ===[/COLOR]"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/gilbertofilmes/e9d442e6a80b061d2d4ec3b1fec8827b/raw/giba2018.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "GRP Filmes"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/fUtJd4v8", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista de Filmes"
+    }, 
+    {
+        "url": "http://bit.ly/TSOFFILMES", 
+        "logos": "", 
+        "image": "", 
+        "name": "TSO Filmes"
+    }, 
+    {
+        "url": "http://staniptv.com/filmes", 
+        "logos": "", 
+        "image": "", 
+        "name": "Stan Box Filmes"
+    }, 
+    {
+        "url": "foo2.br", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR blue]=== Lista de Series ===[/COLOR]"
+    }, 
+    {
+        "url": "http://staniptv.com/séries", 
+        "logos": "", 
+        "image": "", 
+        "name": "Stan Box Series"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/anonymous/f897e5e5ef2b90aae1a11afd2e903e21/raw/80a567ef3d45b10db88d3f795698ea4775d9241b/iptvnovofilmes.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "SM Filmes"
+    }, 
+    {
+        "url": "http://bit.ly/SERIESFLORIPA", 
+        "logos": "", 
+        "image": "", 
+        "name": "Series Floripa"
+    }, 
+    {
+        "url": "http://fooe.br", 
+        "logos": "", 
+        "image": "", 
+        "name": "[COLOR brown]=== Lista Variedades ===[/COLOR]"
+    }, 
+    {
+        "url": "http://staniptv.com/box", 
+        "logos": "", 
+        "image": "", 
+        "name": "Stan Box"
+    }, 
+    {
+        "url": "http://staniptv.com/infantil", 
+        "logos": "", 
+        "image": "", 
+        "name": "Stan Box Infantil"
+    }, 
+    {
+        "url": "https://pastebin.com/raw/XpupsSuy", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista Esportiva"
+    }
+]

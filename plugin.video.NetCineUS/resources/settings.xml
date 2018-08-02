@@ -1,0 +1,12 @@
+<settings>
+	<category label="MENU DE VISUALIZAÇAOsss">
+		<setting id="menuView" type="enum" label="Visualização de Menu" values="Lista|Lista Grande|Miniatura" default="0"/>
+		<setting id="filmesSeriesView" type="enum" label="Visualização de Filmes e Séries" values="Lista|Lista Grande|Miniatura|Posters|Fanart|Media Info 1|Media Info 2|Media Info 3" default="0"/>
+		<setting id="temporadasView" type="enum" label="Visualização de temporadas" values="Lista|Lista Grande|Miniatura" default="2"/>
+		<setting id="episodiosView" type="enum" label="Visualização de episodios" values="Lista|Lista Grande|Miniatura" default="2"/>
+	</category>
+	<!--category label="MENU DE VISUALIZAÇAO">
+		<setting id="menuVisu" type="enum" label="Visualização de Menu" values="Lista|Lista Grande|Miniatura" default="0" />
+		<setting id="filmesVisu" type="enum" label="Visualização de Filmes" values="Lista|Lista Grande|Miniatura|Posters|Fanart|Media Info 1|Media Info 2|Media Info 3" default="2" />
+	</category-->
+</settings>

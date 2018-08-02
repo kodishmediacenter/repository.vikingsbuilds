@@ -1,0 +1,64 @@
+[
+    {
+        "url": "http://goo.gl/QBHBk5", 
+        "logos": "http://download.seaicons.com/icons/flat-icons.com/flat/512/Flat-TV-icon.png/", 
+        "image": "http://download.seaicons.com/icons/flat-icons.com/flat/512/Flat-TV-icon.png", 
+        "cache": 0, 
+        "name": "Canais"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/lista/users/gustav/lista/filmes.m3u", 
+        "logos": "https://viva-la-vida410.webnode.com/_files/200000374-ebb5beda9f/filmes.png/", 
+        "image": "https://viva-la-vida410.webnode.com/_files/200000374-ebb5beda9f/filmes.png", 
+        "cache": 0, 
+        "name": "Filmes"
+    }, 
+    {
+        "url": "https://bitbucket.org/ciscowalker/nova-lista-filmes/raw/master/Cisco_Filmes_Nova", 
+        "logos": "https://viva-la-vida410.webnode.com/_files/200000374-ebb5beda9f/filmes.png/", 
+        "image": "https://viva-la-vida410.webnode.com/_files/200000374-ebb5beda9f/filmes.png", 
+        "name": "Filmes Cisco"
+    }, 
+    {
+        "url": "http://www.lhmtv.tk/filmes/lhm-filmes-nazaflix.txt", 
+        "logos": "http://freeweb2app.com/wp-content/uploads/2017/07/nazaflix-300x300.png/", 
+        "image": "http://freeweb2app.com/wp-content/uploads/2017/07/nazaflix-300x300.png", 
+        "name": "Filmes Nazaflix"
+    }, 
+    {
+        "url": "http://www.lhmtv.tk/series/lhm-series.txt", 
+        "logos": "http://s.apptoko.com/a/uploads/thumbnails/122016/jiotv-live-sports-movies-shows_icon.png/", 
+        "image": "http://s.apptoko.com/a/uploads/thumbnails/122016/jiotv-live-sports-movies-shows_icon.png", 
+        "name": "Series"
+    }, 
+    {
+        "url": "https://raw.githubusercontent.com/kodishmediacenter/kratospower/master/desenho", 
+        "logos": "http://images.clipartpanda.com/sonar-clipart--looney-tunes-clipart-6.gif", 
+        "image": "http://images.clipartpanda.com/sonar-clipart--looney-tunes-clipart-6.gif", 
+        "name": "Desenho"
+    }, 
+    {
+        "url": "https://raw.githubusercontent.com/kodishmediacenter/kratospower/master/desenhos2", 
+        "logos": "http://images.clipartpanda.com/sonar-clipart--looney-tunes-clipart-6.gif", 
+        "image": "http://images.clipartpanda.com/sonar-clipart--looney-tunes-clipart-6.gif", 
+        "name": "Desenhos 2"
+    }, 
+    {
+        "url": "https://raw.githubusercontent.com/kodishmediacenter/kratospower/master/radios", 
+        "logos": "http://www.iconarchive.com/download/i62654/ampeross/qetto-2/radio.ico", 
+        "image": "http://www.iconarchive.com/download/i62654/ampeross/qetto-2/radio.ico", 
+        "name": "Radio"
+    }, 
+    {
+        "url": "https://raw.githubusercontent.com/kodishmediacenter/kratospower/master/tokusatsus", 
+        "logos": "https://vignette.wikia.nocookie.net/tokusatsu/images/c/c0/Icon-gaim.png/", 
+        "image": "https://vignette.wikia.nocookie.net/tokusatsu/images/c/c0/Icon-gaim.png", 
+        "name": "Tokusatsu"
+    }, 
+    {
+        "url": "https://minhalista.live/and85/and85.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "Series 2"
+    }
+]

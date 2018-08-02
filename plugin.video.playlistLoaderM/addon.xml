@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.playlistLoaderM" name="Gustav Center" version="1.0.0" provider-name="Kodishmc,Gustav Center">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en">Addon de conteudos Legais da Gustav Center</description>
+    <platform>all</platform>
+  </extension>
+</addon>

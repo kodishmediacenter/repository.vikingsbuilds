@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.MinhaSerie" name="Minha Série" version="0.0.1" provider-name="Lojink / ali">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.urlresolver" version="2.10.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Assista Séries em Sd diretamente pelo kodi...</summary>
+    <description lang="en">Assista Séries em Sd diretamente pelo kodi...</description>
+    <disclaimer lang="en">Assista Séries em Sd diretamente pelo kodi...</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
