@@ -776,7 +776,7 @@ Artwork by @konsumer420
   </extension>
 </addon>
 
-<addon id="plugin.video.quasar" name="Quasar Universal" version="0.9.78u" provider-name="scakemyer">
+<addon id="plugin.video.quasar" name="Quasar Universal" version="0.9.78" provider-name="scakemyer">
     <requires>
         <import addon="xbmc.addon" version="16.0.0" />
         <import addon="xbmc.python" version="2.24.0" />
