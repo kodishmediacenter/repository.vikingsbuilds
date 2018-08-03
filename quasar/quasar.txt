@@ -1,0 +1,19 @@
+name="plugin.video.quasar-0.9.78 (Universal)"
+
+url="http://sokodi.net/quasar/universal/plugin.video.quasar.zip" 
+
+img="http://sokodi.net/quasar/fanart.jpg"
+
+fanart="http://sokodi.net/quasar/fanart.jpg"
+
+description="Não necessidade de fresh start"
+
+name="plugin.video.quasar-0.9.78 (Android)"
+
+url="http://sokodi.net/quasar/android/plugin.video.quasar.zip" 
+
+img="http://sokodi.net/quasar/fanart.jpg"
+
+fanart="http://sokodi.net/quasar/fanart.jpg"
+
+description="Não necessidade de fresh start"
